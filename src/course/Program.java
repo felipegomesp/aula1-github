@@ -11,6 +11,7 @@ public class Program {
 
 	public static void main(String[] args) {
 
+		System.out.println("Bom dia");
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
